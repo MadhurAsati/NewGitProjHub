@@ -2,6 +2,7 @@ git init # it will initialise the repository
 git add <file_name>
 git log # gives history of past commits
 git show <ComitCode> # gives all the details of that commit
+git stash pop # it avoids the loss of working file
 
 git config --global user.name "ameydeva" - To setup the git
 git commit -m "FirstCommit" test.txt

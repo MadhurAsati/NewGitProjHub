@@ -1,0 +1,125 @@
+    1  ls
+    2  cd 
+    3  ls
+    4  cd c/
+    5  cd d:ls
+    6  cd d/
+    7  cd d:/
+    8  ls
+    9  cd c/
+   10  cd c/ 
+   11  cd /d
+   12  cd /c
+   13  cd /e/git/
+   14  ls
+   15  git config --global user.name "ameydeva"
+   16  git clone https://github.com/ameydeva/NewGitHubTest.git
+   17  ls
+   18  cd NewGitHubTest/
+   19  ls
+   20  git add test.txt 
+   21  get status
+   22  git status
+   23  git commit -m "FirstCommit" test.txt 
+   24  git push -u origin master
+   25  git commit -m "secondCommit" test.txt 
+   26  git push -u origin master
+   27  exit
+   28  git config --global user.name "ameydeva"
+   29  ls
+   30  cd /e
+   31  ls
+   32  cd git/
+   33  ls
+   34  cd NewGitHubTest/
+   35  touch blankfile.txt
+   36  ls
+   37  vi sudo blankfile.txt 
+   38  cd .
+   39  ls
+   40  cd ..
+   41  mkdir NewGitProj
+   42  cd NewGitProj/
+   43  ls
+   44  git init
+   45  ls
+   46  ls -a
+   47  cd /.git
+   48  cd .git/
+   49  ls
+   50  ls -1
+   51  cd ..
+   52  rm -r .git/
+   53  git init
+   54  git init
+   55  cd .git/
+   56  ls -la
+   57  cat description 
+   58  cd 
+   59  ls
+   60  cd /e/git/NewGitProj/
+   61  ls
+   62  git add GitComands.txt 
+   63  cd .git/
+   64  ls -la
+   65  cd ..
+   66  git status
+   67  cd .git/
+   68  ls
+   69  cat index
+   70  cd ..
+   71  git commit -m "First comment"
+   72  git status
+   73  git status
+   74  git commit -m "First comment" GitComands.txt 
+   75  git status
+   76  cd .git/
+   77  cd objects/
+   78  ls
+   79  cd..
+   80  cd ..
+   81  cd ..
+   82  ls
+   83  cp ../index.html ./
+   84  ls
+   85  git add index.html 
+   86  cd .git/
+   87  cat index 
+   88  cd ..
+   89  git commit -m "Second commit"
+   90  git status
+   91  git add indexCopy.html 
+   92  git status
+   93  git add index.html 
+   94  git commit -m "First commit" indexCopy.html 
+   95  git commit -m "Second commit " index.html 
+   96  cd .git/objects/
+   97  ls -la
+   98  git log
+   99  git show 1089ef8e8
+  100  cd ../..
+  101  git add GitComands.txt 
+  102  git commit -m "New Changes"
+  103  git status
+  104  git remote add origin https://github.com/ameydeva/NewGitProjHub.git
+  105  git push -u origin master
+  106  git logs
+  107  git log
+  108  git remote -a
+  109  git remote -v
+  110  git log
+  111* 
+  112  git push -u origin master
+  113  git push -u origin master
+  114  git log
+  115  history
+  116  git pull
+  117  git add 
+  118  git add *
+  119  git commit -m "Git Changes Copy"
+  120  git push -u origin master
+  121  git log
+  122  git loggiiimanffvlknalksnflknasmvdfdfvakjfdnn
+  123  sdf
+  124  history
+  125  history > history.txt
