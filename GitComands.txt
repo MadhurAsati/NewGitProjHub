@@ -3,6 +3,8 @@ git add <file_name>
 git log # gives history of past commits
 git show <ComitCode> # gives all the details of that commit
 git stash pop # it avoids the loss of working file
+git branch NewGitProj_Branch master # Creates the branch
+git checkout NewGitProj_Branch #Switched to branch 'NewGitProj_Branch'
 
 git config --global user.name "ameydeva" - To setup the git
 git commit -m "FirstCommit" test.txt
