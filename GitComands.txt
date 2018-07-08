@@ -1,0 +1,6 @@
+git init # it will initialise the repository
+
+
+git config --global user.name "ameydeva" - To setup the git
+git commit -m "FirstCommit" test.txt
+git push -u origin master
